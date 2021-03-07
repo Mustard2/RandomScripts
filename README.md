@@ -3,7 +3,7 @@ Collection of random scripts for Blender.
 These scripts are for personal use, so it might not work for all applications.
 
 ## Instructions
-Add the script in the Blender Text editor, and run them following the instructions in the comments in the first lines of the script
+Add the script in the Blender Text editor, and run them following the instructions in the comments in the first lines of the script.
 
 ## Scripts
 
